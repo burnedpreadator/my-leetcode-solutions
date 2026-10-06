@@ -34,6 +34,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -43,4 +44,21 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
