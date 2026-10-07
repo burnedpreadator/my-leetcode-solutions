@@ -65,4 +65,8 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
