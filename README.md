@@ -24,6 +24,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
