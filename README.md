@@ -8,6 +8,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -84,4 +85,12 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
