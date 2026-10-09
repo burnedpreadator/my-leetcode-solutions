@@ -27,6 +27,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -75,4 +76,12 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
