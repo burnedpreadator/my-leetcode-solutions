@@ -102,4 +102,8 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
