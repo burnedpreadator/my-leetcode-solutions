@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0014-longest-common-prefix](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
+| [1143-longest-common-subsequence](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0016-3sum-closest) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
