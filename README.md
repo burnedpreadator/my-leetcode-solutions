@@ -74,6 +74,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0062-unique-paths) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0062-unique-paths) |
 | [1143-longest-common-subsequence](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -109,4 +111,8 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0176-second-highest-salary](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0178-rank-scores) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
