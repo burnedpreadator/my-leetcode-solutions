@@ -12,6 +12,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0540-single-element-in-a-sorted-array](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
@@ -98,6 +99,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0016-3sum-closest](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,12 +125,15 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
