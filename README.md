@@ -44,6 +44,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -146,4 +147,16 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
