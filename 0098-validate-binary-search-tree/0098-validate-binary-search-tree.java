@@ -14,17 +14,46 @@
  * }
  */
 class Solution {
-    public boolean isValidBST(TreeNode root) {
-        return helper(root, null, null);
+
+    class QueueNode {
+        TreeNode node;
+        Integer min;
+        Integer max;
+
+        QueueNode(TreeNode node, Integer min, Integer max) {
+            this.node = node;
+            this.min = min;
+            this.max = max;
+        }
     }
 
-    private boolean helper(TreeNode root, Integer min, Integer max){
-        if(root == null) return true;
+    public boolean isValidBST(TreeNode root) {
+        if(root == null) return false;
 
-        if((min != null && root.val <= min)||(max != null && root.val >= max)){
-            return false;
+        Queue<QueueNode> queue = new LinkedList<>();
+        queue.add(new QueueNode(root, null, null));
+
+        while(!queue.isEmpty()){
+            QueueNode curr = queue.poll();
+            TreeNode node = curr.node;
+            Integer min = curr.min;
+            Integer max = curr.max;
+
+            if((min != null && node.val <= min) || (max != null && node.val >= max)){
+                return false;
+            }
+
+            if(node.left!=null){
+                queue.add(new QueueNode(node.left, min, node.val));
+            }
+
+            if(node.right!=null){
+                queue.add(new QueueNode(node.right, node.val, max));
+            }
+
         }
 
-        return helper(root.left, min, root.val) && helper(root.right, root.val, max);
+        return true;
     }
+
 }
