@@ -15,6 +15,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +145,5 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
