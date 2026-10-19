@@ -46,6 +46,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -57,6 +58,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0785-is-graph-bipartite](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -154,6 +156,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -162,4 +165,5 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
