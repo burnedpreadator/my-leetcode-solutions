@@ -7,6 +7,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
@@ -96,6 +97,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
@@ -145,6 +147,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Tree
