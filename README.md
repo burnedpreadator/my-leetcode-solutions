@@ -103,6 +103,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0011-container-with-most-water](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
 | ------- |
@@ -169,4 +170,8 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
