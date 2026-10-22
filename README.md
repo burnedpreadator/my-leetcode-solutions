@@ -19,6 +19,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0435-non-overlapping-intervals](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,4 +176,8 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
