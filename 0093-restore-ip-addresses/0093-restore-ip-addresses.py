@@ -20,7 +20,9 @@ class Solution:
                 if int(segment)> 255:
                     continue
 
-                backtracking(start+length, current_path+[segment])
+                current_path.append(segment)
+                backtracking(start+length, current_path)
+                current_path.pop()
 
         backtracking(0, [])
         return result
