@@ -38,11 +38,13 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0014-longest-common-prefix](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [1143-longest-common-subsequence](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 ## Depth-First Search
 |  |
 | ------- |
