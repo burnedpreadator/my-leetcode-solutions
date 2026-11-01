@@ -2,26 +2,24 @@ class Solution {
     private HashSet<String> set = new HashSet<>();
     public int numTilePossibilities(String tiles) {
         int n = tiles.length();
-        boolean[] visited = new boolean[n];
-        backtracking(visited, tiles,  n, new StringBuilder());
-        return set.size();
+        int[] arr = new int[26];
+        for(char c : tiles.toCharArray()){
+            arr[c-'A']++;
+        }
+        return backtracking(arr);
     }
 
-    private void backtracking(boolean[] visited, String tiles, int n, StringBuilder pair){
-        if(pair.length() == n) return;
-        for(int i=0 ; i<n; i++){
-            if(visited[i]) continue;
-            visited[i]= true;
+    private int backtracking(int[] count){
+        int sum = 0;
+        for(int i=0 ; i<26; i++){
+            if(count[i] == 0) continue;
 
-            char c = tiles.charAt(i);
-            pair.append(c);
-            if(!set.contains(pair)){
-                set.add(pair.toString());
-            }
-
-            backtracking(visited, tiles, n, pair);
-            visited[i] = false;
-            pair.setLength(pair.length() - 1);
+            sum++;
+            count[i]--;
+            sum+=backtracking(count);
+            count[i]++;
         }
+
+        return sum;
     }
 }
