@@ -45,6 +45,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0020-valid-parentheses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [1079-letter-tile-possibilities](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0093-restore-ip-addresses](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0473-matchsticks-to-square](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1079-letter-tile-possibilities](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,11 +155,13 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1079-letter-tile-possibilities](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1079-letter-tile-possibilities](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
