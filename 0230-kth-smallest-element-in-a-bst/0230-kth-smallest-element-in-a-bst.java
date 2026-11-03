@@ -14,29 +14,28 @@
  * }
  */
 class Solution {
-    private int count = 0;
-    private int result = -1;
     public int kthSmallest(TreeNode root, int k) {
-        /** calculate the total length of th bst (brute force) */
-        count = k;
-        calculatelen(root);
-        return result;
-    }
+        Deque<TreeNode> stack = new ArrayDeque<>();
+        int count = 0;
+        TreeNode current = root;
 
-    private void calculatelen(TreeNode node){
-        if(node == null){
-            return;
-        }
-        calculatelen(node.left);
+        while(current != null || !stack.isEmpty()){
 
-        count--;
-        if(count == 0){
-            result = node.val;
-            return;
+            while(current!=null){
+                stack.push(current);
+                current = current.left;
+            }
+
+            current = stack.pop();
+            count++;
+
+            if(count == k){
+                return current.val;
+            }
+
+            current = current.right;
         }
 
-        if(count>0){
-            calculatelen(node.right);
-        }
+        return -1;
     }
 }
