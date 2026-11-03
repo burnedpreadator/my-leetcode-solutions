@@ -14,20 +14,29 @@
  * }
  */
 class Solution {
+    private int count = 0;
+    private int result = -1;
     public int kthSmallest(TreeNode root, int k) {
         /** calculate the total length of th bst (brute force) */
-        List<Integer> list = new ArrayList<>();
-
-        calculatelen(root, list);
-        return list.get(k-1);
+        count = k;
+        calculatelen(root);
+        return result;
     }
 
-    private void calculatelen(TreeNode node, List<Integer> list){
+    private void calculatelen(TreeNode node){
         if(node == null){
             return;
         }
-        calculatelen(node.left, list);
-        list.add(node.val);
-        calculatelen(node.right, list);
+        calculatelen(node.left);
+
+        count--;
+        if(count == 0){
+            result = node.val;
+            return;
+        }
+
+        if(count>0){
+            calculatelen(node.right);
+        }
     }
 }
