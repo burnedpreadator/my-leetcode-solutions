@@ -15,6 +15,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -132,6 +133,7 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0062-unique-paths) |
+| [0416-partition-equal-subset-sum](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -222,4 +224,12 @@ A collection of my LeetCode solutions, cleanly organized by topic and difficulty
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/burnedpreadator/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
