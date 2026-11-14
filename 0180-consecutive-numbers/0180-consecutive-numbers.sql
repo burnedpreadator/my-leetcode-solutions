@@ -1,10 +1,6 @@
-# Write your MySQL query statement below
-WITH xyz As(
-    SELECT num,
-    LEAD(num, 1) OVER (ORDER BY id) AS num_1,
-    LEAD(num, 2) OVER (ORDER BY id) AS num_2
-    FROM Logs
-)
-SELECT DISTINCT num as ConsecutiveNums
-from xyz
-where num=num_1 and num=num_2;
+select DISTINCT l1.num AS ConsecutiveNums
+FROM Logs l1
+JOIN Logs l2 on l1.id = l2.id-1
+JOIN Logs l3 on l1.id = l3.id-2
+WHERE l1.num = l2.num
+AND l1.num = l3.num
